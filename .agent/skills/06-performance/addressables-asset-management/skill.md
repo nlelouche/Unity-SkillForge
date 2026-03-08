@@ -21,7 +21,7 @@ context_discovery:
 performance_budget:
   gc_alloc_per_frame: "0 bytes (target)"
   max_update_cost: "Profiler-verified"
-tdd_first: false
+tdd_first: true
 ---
 
 # Addressables & Asset Management
